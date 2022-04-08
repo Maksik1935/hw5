@@ -1,6 +1,7 @@
 package com.company;
 
 public class Main {
+    //GITHUB
     static int[] frst = new int[3];
     static double[] scnd = {1.57, 7.654, 9.986};
     static String[] thrd = {"Hello", "world"};
